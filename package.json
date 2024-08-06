@@ -4,7 +4,7 @@
   "description": "API node com express para bakend do terceiro modulo IFsp de 24",
   "main": "src/server.js ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
